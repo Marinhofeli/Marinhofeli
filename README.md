@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Felipe Marinho
+# 🌀 Felipe Marinho 🌀
 
 **`Técnico em Eletromecânica`**
 
