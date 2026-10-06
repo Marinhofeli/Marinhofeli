@@ -1,18 +1,17 @@
 # 👩🏻‍💻 Felipe Marinho
 
-**`Desenvolvedora FullStack`**
+**`Técnico em Eletromecânica`**
 
 Bom dia.
-
 <p align="left">
     <a href="">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src=""
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
@@ -23,7 +22,7 @@ Bom dia.
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src=""
         />
     </a>
     <a href="">
