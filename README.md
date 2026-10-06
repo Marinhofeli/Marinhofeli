@@ -5,7 +5,9 @@
 Bom dia.
 
 ---
-
+ <p align="center">
+  <img src="https://i.redd.it/sfahx09ivva11.png" alt="Get in the Code, Shinji" width="100%">
+</p>
 ### 🤖 Linguagens e Tecnologias
 
 <img 
